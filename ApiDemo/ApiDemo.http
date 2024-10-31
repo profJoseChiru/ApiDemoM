@@ -1,0 +1,6 @@
+@ApiDemo_HostAddress = http://localhost:5226
+##@ApiDemo_HostAddress = http://172.30.150.46:5226
+GET {{ApiDemo_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
